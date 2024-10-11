@@ -38,10 +38,17 @@ The database schema for TrendKart consists of the following main tables:
 4. **Order_Items**: Stores information about products in each order (OrderID, ProductID, Quantity)
 5. **Inventory**: Manages stock levels for each product (ProductID, Stock)
 
-![Schema Diagram](link_to_image_if_any) (Optional: Include a database schema diagram)
-
 ## Installation Instructions
 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/trendkart-dbms.git
+
+2.Import the database schema:
+Using MySQL, you can run the following:
+SOURCE path_to_your_database_schema.sql;
+Set up database configurations in your application (if necessary):
+
+3.Update the DBMS connection parameters such as host, username, password in your codebase.
+4.Run the project (depending on whether you have a backend, UI, or just a SQL-based interface).
+
