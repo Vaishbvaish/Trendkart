@@ -101,7 +101,7 @@ http://localhost:3000
 
 ## Contributors
 *Name:Vaishnavi B
-*LinkedIn:https://www.linkedin.com/in/vaishnavi-b-770b8a25b?
+*LinkedIn:https://www.linkedin.com/in/vaishnavi-b-770b8a25b
 
 
 
